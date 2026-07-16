@@ -16,7 +16,7 @@ Unknown-user handles excluded. Raw message text and numeric Discord user IDs exc
 | lıquıdprısm 🜄 | 2204 | [professor-ori-l-qu-dpr-sm](https://github.com/Build-In-Public-University/professor-ori-l-qu-dpr-sm) | [gate](https://chat.hitchhikersguidetothefuture.com/from/l-qu-dpr-sm?source=ori-discord&campaign=first-month) |
 | Metasyn | 2194 | [professor-ori-metasyn](https://github.com/Build-In-Public-University/professor-ori-metasyn) | [gate](https://chat.hitchhikersguidetothefuture.com/from/metasyn?source=ori-discord&campaign=first-month) |
 | Walter | 2111 | [professor-ori-walter](https://github.com/Build-In-Public-University/professor-ori-walter) | [gate](https://chat.hitchhikersguidetothefuture.com/from/walter?source=ori-discord&campaign=first-month) |
-| Kattt | 2106 | [professor-ori-kattt](https://github.com/Build-In-Public-University/professor-ori-kattt) | [gate](https://chat.hitchhikersguidetothefuture.com/from/kattt?source=ori-discord&campaign=first-month) |
+| Kat the Vat / Kattt | 2106 | [professor-ori-kattt](https://github.com/Build-In-Public-University/professor-ori-kattt) | [gate](https://chat.hitchhikersguidetothefuture.com/from/kattt?source=ori-discord&campaign=first-month) |
 | sasenchal | 1636 | [professor-ori-sasenchal](https://github.com/Build-In-Public-University/professor-ori-sasenchal) | [gate](https://chat.hitchhikersguidetothefuture.com/from/sasenchal?source=ori-discord&campaign=first-month) |
 | Shadow_Rebbe | 1584 | [professor-ori-shadow-rebbe](https://github.com/Build-In-Public-University/professor-ori-shadow-rebbe) | [gate](https://chat.hitchhikersguidetothefuture.com/from/shadow-rebbe?source=ori-discord&campaign=first-month) |
 | patcon | 1561 | [professor-ori-patcon](https://github.com/Build-In-Public-University/professor-ori-patcon) | [gate](https://chat.hitchhikersguidetothefuture.com/from/patcon?source=ori-discord&campaign=first-month) |
@@ -117,3 +117,11 @@ Unknown-user handles excluded. Raw message text and numeric Discord user IDs exc
 | Pragya G | 1 | [professor-ori-pragya-g](https://github.com/Build-In-Public-University/professor-ori-pragya-g) | [gate](https://chat.hitchhikersguidetothefuture.com/from/pragya-g?source=ori-discord&campaign=first-month) |
 | Trang | 1 | [professor-ori-trang](https://github.com/Build-In-Public-University/professor-ori-trang) | [gate](https://chat.hitchhikersguidetothefuture.com/from/trang?source=ori-discord&campaign=first-month) |
 | Willow | 1 | [professor-ori-willow](https://github.com/Build-In-Public-University/professor-ori-willow) | [gate](https://chat.hitchhikersguidetothefuture.com/from/willow?source=ori-discord&campaign=first-month) |
+
+## Non-ORI profiles added from local public-surface receipts
+
+These profiles were not found as ORI Discord handles in the generated ORI manifest. They were created from local visible-surface receipts and keep raw dumps out of git.
+
+| Handle | Source | Repository | Professor Gate |
+|---|---|---|---|
+| garcia590 | X satellite + browser visible-surface archive | [professor-garcia590](https://github.com/Build-In-Public-University/professor-garcia590) | [gate](https://chat.hitchhikersguidetothefuture.com/from/garcia590?source=profile&campaign=first-month) |
