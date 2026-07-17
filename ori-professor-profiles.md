@@ -120,6 +120,13 @@ Unknown-user handles excluded. Raw message text and numeric Discord user IDs exc
 
 ## Non-ORI profiles added from local public-surface receipts
 
+### Adam Parsons
+
+- Repo: [professor-adam-parsons](https://github.com/Build-In-Public-University/professor-adam-parsons)
+- Page: https://build-in-public-university.github.io/professor-adam-parsons/
+- Gate: https://chat.hitchhikersguidetothefuture.com/from/adam-parsons?source=profile&campaign=first-month
+- Source: intro video supplied to Leo (`~/Downloads/Education1.mp4`); optimized public display copy only.
+
 These profiles were not found as ORI Discord handles in the generated ORI manifest. They were created from local visible-surface receipts and keep raw dumps out of git.
 
 | Handle | Source | Repository | Professor Gate |
